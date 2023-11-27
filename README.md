@@ -1,7 +1,5 @@
 # mysql-tutorial
 
-Thank you for pointing that out. Here's the revised tutorial with the inclusion of showing all users and tables:
-
 ### Comprehensive MySQL Database Management Tutorial
 
 #### Introduction
